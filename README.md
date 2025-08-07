@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m an tech enthusiast ,developer, avid dancer. I love to explore new technologies and collaborate with other developers on exciting projects.  
-I’m currently building robust Application security platform @Checkmarx(), mitigating security risks. Also working on open source Checkmarx [CLI](https://github.com/Checkmarx/ast-cli) and IDE plugins  
+I’m currently building robust Application security platform Checkmarx, mitigating security risks. Also working on open source Checkmarx [CLI](https://github.com/Checkmarx/ast-cli) and IDE plugins  
 Feel free to connect [contact me](https://www.linkedin.com/in/anjali-deore-002481193/). 😊
 Working on golang, kubernetes, Kafka, Springboot, MCP agentic AI use cases.
 
