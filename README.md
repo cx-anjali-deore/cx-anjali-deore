@@ -11,8 +11,8 @@ Working on golang, kubernetes, Kafka, Springboot, MCP agentic AI use cases.
 [![Latest Release](https://img.shields.io/github/v/release/checkmarx/ast-cli)](https://github.com/checkmarx/ast-cli/releases)
 [![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/ast-cli/discussions)  
 The tool enables you to scan your source code for security issues easily and automate it in CI/CD pipelines., managing all the Checkmarx One scan types (SAST, SCA, IaC Security, etc.) 
-[![Docker Pulls][docker-shield]][docker-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Docker Pulls](https://img.shields.io/docker/pulls/checkmarx/ast-cli) [docker-url](https://hub.docker.com/r/checkmarx/ast-cli)
+
 
 
 [![gh-local-changes](https://img.shields.io/static/v1?label=gh%20cli%20extension&message=baruchiro/gh-local-changes&color=eff1f3&logo=github&link=https://github.com/baruchiro/gh-local-changes)](https://github.com/baruchiro/gh-local-changes)
