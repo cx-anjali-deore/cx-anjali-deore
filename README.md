@@ -15,9 +15,6 @@ The tool enables you to scan your source code for security issues easily and aut
 
 
 [![gh-local-changes](https://img.shields.io/static/v1?label=gh%20cli%20extension&message=baruchiro/gh-local-changes&color=eff1f3&logo=github&link=https://github.com/baruchiro/gh-local-changes)](https://github.com/baruchiro/gh-local-changes)
-![GitHub License](https://img.shields.io/github/license/baruchiro/gh-local-changes)
-![GitHub Release](https://img.shields.io/github/v/release/baruchiro/gh-local-changes)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/baruchiro/gh-local-changes/total)  
 [gh-local-changes](https://github.com/baruchiro/gh-local-changes)- Scan a folder to find git repos with unpushed branches and/or changes.
 
 
@@ -28,6 +25,6 @@ The tool enables you to scan your source code for security issues easily and aut
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/cx-anjali-deore/contributions?format=svg" width="350" />
-        <img src="https://api.vaunt.dev/v1/github/entities/cx-anjali-deore/achievements?format=svg&limit=3" width="350" />
+    
     </a>
 </p>
