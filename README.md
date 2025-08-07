@@ -25,6 +25,5 @@ The tool enables you to scan your source code for security issues easily and aut
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/cx-anjali-deore/contributions?format=svg" width="350" />
-    
     </a>
 </p>
